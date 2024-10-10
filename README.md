@@ -18,8 +18,8 @@ This is a simple and interactive Advice Generator app built using React.js. The 
 
 ## Technologies Used
 - React.js
-- Adviceslip API
-- HTML & CSS
+- Adviceslip API : https://api.adviceslip.com/advice
+- JSX
 
 ## Getting Started
 
