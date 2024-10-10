@@ -1,3 +1,41 @@
+# Advice Generator React App
+
+## Description
+This is a simple and interactive Advice Generator app built using React.js. The application fetches random advice from the [Adviceslip API](https://api.adviceslip.com/) and displays it in a user-friendly interface. Each time the user presses the "Get Advice" button, a new piece of advice is generated, along with a message indicating the total number of advices received during the session.
+
+## Features
+- Fetches random advice from an external API.
+- Displays a count of the total advices received.
+- Built with React.js fundamentals, including:
+  - **useState**: For managing state.
+  - **useEffect**: For side effects, like fetching advice from the API.
+  - **Props**: For passing data between components.
+  - **JSX**: For structuring the UI.
+
+## Components
+1. **App Component**: The main component that manages state and handles the logic for fetching advice.
+2. **Message Component**: Displays the total number of advices received and any other relevant messages.
+
+## Technologies Used
+- React.js
+- Adviceslip API
+- HTML & CSS
+
+## Getting Started
+
+### Prerequisites
+- Node.js and npm must be installed on your machine. You can download them from [nodejs.org](https://nodejs.org/).
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/enghendahmed/Advice-Generator-App.git
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
