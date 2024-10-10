@@ -34,8 +34,24 @@ This is a simple and interactive Advice Generator app built using React.js. The 
 
 
 
+Install the required dependencies: npm install
 
 
+
+
+
+Running the App
+
+To start the development server, run: npm start
+
+The app will be available at http://localhost:3000 in your web browser.
+How to Use
+
+    Click the "Get Advice" button to generate a new piece of advice.
+    A message will appear below the button displaying the total number of advices you've received in the current session.
+
+
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
