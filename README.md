@@ -34,7 +34,9 @@ This is a simple and interactive Advice Generator app built using React.js. The 
 
 
 
-Install the required dependencies: npm install
+Install the required dependencies: 
+  ```bash
+  npm install
 
 
 
@@ -42,7 +44,9 @@ Install the required dependencies: npm install
 
 Running the App
 
-To start the development server, run: npm start
+To start the development server, run:
+  ```bash
+  npm start
 
 The app will be available at http://localhost:3000 in your web browser.
 How to Use
