@@ -31,29 +31,21 @@ This is a simple and interactive Advice Generator app built using React.js. The 
    ```bash
    git clone https://github.com/enghendahmed/Advice-Generator-App.git
 
-
-
-
 2. Install the required dependencies: 
    ```bash
    npm install
-
-
-
-
 
 3. Running the App
     To start the development server, run:
     ```bash
     npm start
-
-
+    
 ## The app will be available at http://localhost:3000 in your web browser.
  
 ## How to Use ?
 
    - Click the "Get Advice" button to generate a new piece of advice.
-    A message will appear below the button displaying the total number of advices you've received in the current session.
+      A message will appear below the button displaying the total number of advices you've received in the current session.
 
 
     
